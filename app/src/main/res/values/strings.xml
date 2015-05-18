@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TasteIt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurant_detail">Detalle Restaurante</string>
+
+    <string name="longtext" >
+        Bacon ipsum dolor amet pancetta bacon ham strip steak turducken ham hock, doner pig filet mignon spare ribs chicken meatball. Venison strip steak landjaeger alcatra ground round pig. Tri-tip doner jowl andouille tenderloin shankle. Capicola ribeye short ribs jerky sirloin ham hock chicken shoulder prosciutto bacon andouille shankle leberkas drumstick. Sausage swine corned beef, rump shankle pancetta tongue beef flank kevin. Shank turkey landjaeger, shankle rump t-bone bacon pork chop.
+
+Porchetta ribeye swine sausage shoulder landjaeger short ribs shank ham hock jowl beef. Shankle ground round venison pork belly swine. Spare ribs ham swine meatloaf. Picanha strip steak biltong turkey shankle bresaola kevin pig capicola short loin cow porchetta corned beef doner. Tongue landjaeger boudin short loin jowl venison pork loin meatloaf spare ribs, meatball ham. Fatback pork chop ground round ham hock jowl bresaola strip steak filet mignon.
+
+Ground round tongue picanha pork loin hamburger tri-tip jowl prosciutto porchetta t-bone. Frankfurter picanha t-bone spare ribs kielbasa ham bresaola brisket. Swine pork ribeye turkey, corned beef salami tri-tip andouille strip steak porchetta drumstick bacon t-bone pig jerky. Sausage strip steak doner capicola salami pancetta shoulder cow biltong fatback rump brisket. T-bone flank fatback pastrami short loin tail cupim landjaeger shank. Sirloin drumstick pork chop ground round ham brisket leberkas turkey landjaeger capicola. Pork chop bacon cow ground round, alcatra kielbasa sausage porchetta hamburger pork belly.
+
+Boudin corned beef strip steak chicken tri-tip ribeye cupim prosciutto fatback. Chuck jerky tongue, biltong fatback porchetta tenderloin jowl brisket. Turducken filet mignon picanha venison rump tongue prosciutto cow pig meatball short ribs jowl. Salami pancetta kielbasa spare ribs beef shankle.
+
+Chicken kielbasa porchetta cow, sausage pastrami shoulder ball tip. Boudin bacon kevin ball tip, cupim doner ground round. Spare ribs pancetta sausage drumstick rump filet mignon beef ribs pastrami cupim bacon pig pork chop porchetta. Chuck cow turducken, ham drumstick prosciutto jerky pork belly strip steak turkey. Picanha short ribs pork belly, shank flank venison andouille filet mignon doner sirloin rump. Shank pig porchetta, landjaeger cow bacon venison swine.
+
+    </string>
+
+    <string name="list_item_left_button">Comentar</string>
+    <string name="list_item_right_button">Compartir</string>
+
+    <string name="nombre_restaurante">Restaurante 1</string>
+    <string name="fecha_publicacion">14/05/2015</string>
+
+</resources>

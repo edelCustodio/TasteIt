@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wh_blue_lighter">#FF6E9DC6</color>
+    <color name="wh_blue_light">#FF305581</color>
+    <color name="wh_blue">#FF204571</color>
+
+    <color name="light_grey">#f0f0f0</color>
+</resources>
